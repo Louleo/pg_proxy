@@ -1,0 +1,4 @@
+tutors:192.168.112.0/29 # matches first 7 machines in N112
+bob:192.168.112.10 # only matches n112lt10 and no others
+bob:192.168.112.13 # only matches n113lt13 and no others
+networks:0.0.0.0/0 # matches everything
